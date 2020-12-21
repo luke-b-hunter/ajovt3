@@ -6,7 +6,7 @@
 ## Work
 
 - [Case Study](02-intentional-aboutness/case-study)
-- [Character & Description](01-character-description/01-character-description)
+- [Character & Description](01-character-description)
 
 - - -
 
