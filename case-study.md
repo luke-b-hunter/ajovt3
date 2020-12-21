@@ -1,5 +1,9 @@
 # Visual selfie
 
+
+![](img/visual-selfie)
+
+
 ## Introduction
 ### *Here is an example of my case study. The work is a personal flag that I created during my second semester at my graphic design school. The task was to create a unique selfie that would describe our personality so I created my own personal flag that’s hanging on a flag pole in the sky*.
 
@@ -11,7 +15,7 @@
 
 * I sat down and sketched a few ideas in my notebook. I eventually chose this design because it looked simplistic and universal in terms of usage so I turned it into a personal t-shirt format as well that could be worn as a visual selfie in public because there is no better canvass for presenting yourself in public than your own personal t-shirt.
 
-
+![](img/tshirt-small) 
 
 ## Symbolism
 
