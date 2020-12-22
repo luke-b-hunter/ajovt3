@@ -1,7 +1,8 @@
 # Lukas Hunter
 
 - [About](about)
-- [Experience](cv-2020-hunter.pdf)
+- [Experience](cv-2020-lhunter)
+- [Experience - downloadable PDF](cv-2020-hunter.pdf)
 
 ## Work
 
