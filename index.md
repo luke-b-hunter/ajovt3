@@ -9,6 +9,7 @@
 - [Case Study](case-study)
 - [Character & Description](01-character-description)
 - [Copying](copying-chapter-6)
+- [My Design Story](05-presentation-storytelling)
 
 - - -
 
