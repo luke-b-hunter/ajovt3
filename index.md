@@ -8,6 +8,7 @@
 
 - [Case Study](case-study)
 - [Character & Description](01-character-description)
+- [Voice Tone](copying-chapter-6)
 
 - - -
 
