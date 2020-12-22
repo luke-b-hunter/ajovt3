@@ -14,7 +14,7 @@ masters before you, for example the old masters in painting. Many artists were i
 paintings. Japanese art was seen as something new and fresh in the 19th century and inspired Van Gogh in many ways. He liked to copy works from the Japanese master Hiroshige to
 further his style. 
 
-![](fig-0-0.png)
+![](03-img/fig-0-0.png.png)
 
 ***from left to right: Hiroshige, Plum Garden at Kameido, 1857 / Vincent Van Gogh, Flowering Plum Tree (after Hiroshige), 1887***
 
@@ -39,7 +39,7 @@ something, whether it's a visual style or a downloaded font. In high school, for
 same picture, but the idea is similar — working with shapes to produce a composition. I used Bauhaus works as inspiration. Of course, there are countless other designs inspired
 by the same source.
 
-![](fig-0-2.png)
+![](03-img/fig-0-2.png)
 
 ***from left to right: Joost Schmidt, Poster for the Bauhausaustellung, 1923 / Poster for United Islands of Prague made by me, 2017***
 
@@ -47,6 +47,6 @@ by the same source.
 and tried to copy it myself. His style contains simple geometric style shapes inspired by Czechoslovak design in the 80s. However, even the great master Pavel Fuksa himself got
 inspired from somebody else. So don't be afraid to experiment with other styles and other people's works!
 
-![](fig-0-1.png)
+![](03-img/fig-0-1.png)
 
 ***from left to right: Pavel Fuksa, Series of presidential postage stamps, 2018 / Postage stamp made by me, 2020***
