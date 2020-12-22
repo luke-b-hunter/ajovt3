@@ -1,4 +1,4 @@
-# Lukáš Hunter
+# Lukas Hunter
 
 
 *Optimistic designer. I like to solve problems through the process of searching for new ways on how to solve key issues.* 
