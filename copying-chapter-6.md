@@ -1,4 +1,4 @@
-# *Chapter IV.*
+# *My Experience with Copying*
 
 * All my life I tried to avoid copying as much as possible. From my experience copying was seen as something negative: "Do you copy? You're a stealer!"  When I was a little boy,
 copying was called *monkeying* in our Czech elementary school. That meant that if you were copying something from someone, you were a *copymonkey*, so like a copycat in English,
