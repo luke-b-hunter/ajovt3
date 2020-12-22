@@ -1,4 +1,4 @@
-[!](05-img/cau-homepage.png)
+![](05-img/cau-homepage.png)
 
 # Lukas Hunter
 
