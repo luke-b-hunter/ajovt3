@@ -1,5 +1,5 @@
 # Lukas Hunter
-
+- [Greetings!](05-img/cau-homepage.png)
 - [About](about)
 - [Experience](cv-2020-lhunter)
 - [Experience.pdf](cv-2020-hunter.pdf)
@@ -15,6 +15,3 @@
 
 [Home](https://github.com/luke-b-hunter/ajvot3)
 
-![](05-img/cau-homepage.png)
-
-- - -
