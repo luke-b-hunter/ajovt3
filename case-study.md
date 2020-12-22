@@ -1,7 +1,7 @@
 # Visual selfie
 
 
-![](02-img/visual-selfie.png)
+![](02-img/visual-selfie.PNG)
 
 
 ## Introduction
@@ -15,7 +15,7 @@
 
 * I sat down and sketched a few ideas in my notebook. I eventually chose this design because it looked simplistic and universal in terms of usage so I turned it into a personal t-shirt format as well that could be worn as a visual selfie in public because there is no better canvass for presenting yourself in public than your own personal t-shirt.
 
-![](02-img/tshirt-small.png) 
+![](02-img/T-SHIRT-SELFIE-DARK.png) 
 
 ## Symbolism
 
