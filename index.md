@@ -14,6 +14,7 @@
 - [Clarity First](06-clarity-first) 
 - [Abstract Draft](07-abstract-draft)
 - [Summary Details](08-summary-details)
+- [Theis Gist](Presentation.pdf)
 
 - - -
 
