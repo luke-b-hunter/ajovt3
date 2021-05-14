@@ -40,3 +40,5 @@ foundation for understanding the process of creating my own movement.
 
 * In the practical part, I’m focusing on the creation of my own political platform for my own movement, the creation of visual communication for this movement and the
 characterization of my own movement followed with it’s own strategic communication. 
+
+Keywords: frivolousness, political party, visual style, movement
