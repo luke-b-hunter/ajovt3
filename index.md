@@ -12,6 +12,7 @@
 - [Copying](copying-chapter-6)
 - [My Design Story](05-presentation-storytelling)
 - [Clarity First](06-clarity-first) 
+- [Abstract Draft](07-abstract-draft)
 
 - - -
 
