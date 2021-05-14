@@ -12,6 +12,7 @@
 - [Copying](copying-chapter-6)
 - [My Design Story](05-presentation-storytelling)
 - [Clarity First](06-clarity-first.md)
+
 - - -
 
 [Home](https://github.com/luke-b-hunter/ajvot3)
