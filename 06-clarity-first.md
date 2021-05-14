@@ -8,7 +8,6 @@ My thesis project is a visual style for my own made up political satire party to
   <summary>Mind Map</summary>
 
 ![](06-img/thesis-mind-map.jpg/)
-
 </details>
 
 ---
